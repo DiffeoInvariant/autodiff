@@ -2,7 +2,12 @@
 #include "custom_operator.hpp"
 #include "dual_number.hpp"
 #include <iostream>
+/**
+compile this file with 
+CXX -std=c++17 -O3 regular_pipe.cpp -o example
 
+where CXX is your C++ compiler (e.g. clang++, g++, icpc, etc)
+*/
 namespace op
 {
     //evaluate functions f: T -> T
