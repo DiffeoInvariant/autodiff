@@ -1,6 +1,9 @@
 /**
  Based on code from
  https://github.com/klmr/named-operator
+ 
+ TO DO: implement perfect forwarding for actual piping, right now operators
+ cannot be passed rvalue references
  */
 #ifndef CUSTOM_OPERATOR_HPP
 #define CUSTOM_OPERATOR_HPP
