@@ -1,7 +1,7 @@
 #ifndef DUAL_NUMBER_HPP
 #define DUAL_NUMBER_HPP
 /**
- @author: Zane Jakobs
+ @author: Emily Jakobs
  @brief: dual numbers for automatic differentiation
  */
 #include <ostream>
